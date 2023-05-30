@@ -1,0 +1,98 @@
+commit 3715e2205c59b87d43cb8d877a30c4b7c56c9de1
+Author: Aldo Vital <aldo.vitalg@gmail.com>
+Date:   Mon May 29 18:47:29 2023 -0600
+
+    Agregando 2 parrafos
+
+commit 67e90cfaf8da323f8eddf2b5d3c2d8174d6eaa9d
+Merge: f0944ad 94c942d
+Author: Aldo Vital <aldo.vitalg@gmail.com>
+Date:   Mon May 29 18:43:25 2023 -0600
+
+    Resolviendo conflicto en estaciones del año con fechas de inicio
+
+commit f0944ad1ee1a4d578f249d0011fc2022ee6c1db1
+Author: Aldo Vital <aldo.vitalg@gmail.com>
+Date:   Mon May 29 18:11:04 2023 -0600
+
+    Agregando estaciones del año con fechas de inicio
+
+commit 94c942da3bc69043e43e133359d5b3b1ac71b34b
+Author: Aldo Vital <aldo.vitalg@gmail.com>
+Date:   Mon May 29 18:11:04 2023 -0600
+
+    Agragando las estaciones del año
+
+commit aa1f66954077372db9f26c14fa4caa8635ea4c77
+Merge: 28c9c78 36d66b6
+Author: Aldo Vital <aldo.vitalg@gmail.com>
+Date:   Mon May 29 16:59:26 2023 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 36d66b6740a01b53a73ff8664b9fd902fef528ac
+Author: Aldo Vital <aldo.vitalg@gmail.com>
+Date:   Mon May 29 16:47:03 2023 -0600
+
+    Agregando index.js al index.html
+
+commit 28c9c784ea8223424e2b15ef6706ab85895ad16e
+Author: Aldo Vital <aldo.vitalg@gmail.com>
+Date:   Mon May 29 16:38:07 2023 -0600
+
+    Agregando style.css al index.html
+
+commit 0f17f355a97268a3e6ae3dcb6072daa0805c6191
+Merge: 4fa9ae0 971fb3e
+Author: Aldo Vital <aldo.vitalg@gmail.com>
+Date:   Mon May 29 16:00:15 2023 -0600
+
+    Merge branch 'js'
+
+commit 971fb3e8760c132278c0cd1d1abdae771ecc097b
+Author: Aldo Vital <aldo.vitalg@gmail.com>
+Date:   Mon May 29 15:52:58 2023 -0600
+
+    Creando index.js
+
+commit 4fa9ae060bc3e6bf206e54ee1979c16beab1fdb9
+Author: Aldo Vital <aldo.vitalg@gmail.com>
+Date:   Mon May 29 15:06:13 2023 -0600
+
+    Creando style.css
+
+commit d9c86143fd1c900db28153a40717e4a25564c076
+Author: Aldo Vital <aldo.vitalg@gmail.com>
+Date:   Mon May 29 15:00:38 2023 -0600
+
+    Creando index.html
+
+commit c04a07c1c81be5b1f75d4a9106083a301776de70
+Author: Aldo Vital <aldo.vitalg@gmail.com>
+Date:   Mon May 29 13:28:38 2023 -0600
+
+    Ignorando archivos .exe
+
+commit c9981435167097881c207b0ef57cddf5b151ce82
+Author: Aldo Vital <134719508+AldoVital@users.noreply.github.com>
+Date:   Sat May 27 14:59:31 2023 -0600
+
+    Creando licencia del repositorio
+
+commit 763c799e978a137faba15fed89300e8971c992bf
+Author: Aldo Vital <aldo.vitalg@gmail.com>
+Date:   Sat May 27 13:32:07 2023 -0600
+
+    Agregando mas contenido al README
+
+commit ba6d1ec573a21d3273df216ed4905d0b54109fd1
+Author: Aldo Vital <aldo.vitalg@gmail.com>
+Date:   Fri May 26 19:24:21 2023 -0600
+
+    Agregando Contenido Inical al README
+
+commit 5e8b51c849704b813e51335b9ccefcdac5598224
+Author: Aldo Vital <aldo.vitalg@gmail.com>
+Date:   Fri May 26 19:17:06 2023 -0600
+
+    Primer Commit 😋
